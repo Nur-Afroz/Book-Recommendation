@@ -68,7 +68,11 @@ Features:
 1. Option for sign up and create an individual profile.
 2. Option for give ratings of the books according to choice.
 3. According to choice it gives recommedations about books.
-4. It also have admin section to control the site.
+4. It also have admin section to control the site
+   To go to admin : http://127.0.0.1:8000/admin
+   To login in admin: user: admin123
+                      pass:12345678
+                      
 
 
 
