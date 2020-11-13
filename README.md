@@ -64,6 +64,14 @@ Technologies Used
   7.Now a local address(http://127.0.0.1:8000) will be generated and the app will run in that address.
 
 
+Features:
+1. Option for sign up and create an individual profile.
+2. Option for give ratings of the books according to choice.
+3. According to choice it gives recommedations about books.
+4. It also have admin section to control the site.
+
+
+
 
 
 
